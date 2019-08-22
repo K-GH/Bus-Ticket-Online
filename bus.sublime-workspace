@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"color"
+			],
+			[
+				"bl",
+				"bold"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fou",
+				"found_user"
+			],
+			[
+				"di",
+				"dis_id_run"
+			],
+			[
+				"br",
+				"bridge"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"ifel",
+				"ifelse\tif … else …"
+			],
+			[
+				"date",
+				"date_id_run"
+			],
+			[
+				"qu",
+				"query1"
+			],
+			[
+				"s",
+				"search1"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"dis",
+				"dis_name"
+			],
+			[
+				"wher",
+				"WHERE"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"d_",
+				"d_id"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"meth",
+				"methodPayment"
+			],
+			[
+				"C",
+				"Credit"
+			],
+			[
+				"cas",
+				"Cash"
+			],
+			[
+				"bu",
+				"bus-booking_system"
+			],
+			[
+				"Lo",
+				"Logout"
+			],
+			[
+				"quer",
+				"query_admin_run"
+			],
+			[
+				"admin",
+				"found_admin"
+			],
+			[
+				"admi",
+				"admin_query"
+			],
+			[
+				"us",
+				"user_query"
+			],
+			[
+				"adm",
+				"admin"
+			],
+			[
+				"se",
+				"search3_run"
+			],
+			[
+				"show",
+				"show_query_run"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"user",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 6963,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bus-booking_system.php",
+			"settings":
+			{
+				"buffer_size": 5304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bus-booking.php",
+			"settings":
+			{
+				"buffer_size": 11354,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Bus_ticket.php",
+			"settings":
+			{
+				"buffer_size": 19209,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 315.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Bus"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Bus/Admin_insert.php",
+		"/C/xampp/htdocs/Bus/admin.php",
+		"/C/xampp/htdocs/Bus/index.html",
+		"/C/xampp/htdocs/Bus/payment-success.php",
+		"/C/xampp/htdocs/Bus/Admin_fetch_single.php",
+		"/C/xampp/htdocs/Bus/Admin_delete.php",
+		"/C/xampp/htdocs/Bus/bus-booking_system.php",
+		"/C/xampp/htdocs/Bus/login.php",
+		"/C/xampp/htdocs/Bus/login_system.php",
+		"/C/xampp/htdocs/Bus/Logout.php",
+		"/C/xampp/htdocs/Bus/bus-booking.php",
+		"/C/xampp/htdocs/Bus/Admin_fetch.php",
+		"/C/xampp/htdocs/Bus/test2 - Copy.php",
+		"/C/xampp/htdocs/Bus/test.php",
+		"/C/xampp/htdocs/Bus/Bus_ticket.php",
+		"/C/xampp/htdocs/Bus/admin1.php",
+		"/C/xampp/htdocs/Bus/Admin_order_fetch.php",
+		"/C/xampp/htdocs/Bus/test2.php",
+		"/C/xampp/htdocs/Bus/admin - Copy.php",
+		"/C/xampp/htdocs/Bus/register.php",
+		"/C/xampp/htdocs/Bus/assets/js/vendors/owl.carousel.min.js",
+		"/C/xampp/htdocs/Bus/bus.sublime-project",
+		"/C/xampp/htdocs/Bus/payment-success.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"areaID",
+			"DisModal",
+			"DisTable",
+			"icon glyphicon glyphicon-chevron-up",
+			"printableArea",
+			"html-content-holder",
+			"previewImage",
+			"btn-Preview-Image",
+			"canvas",
+			"areaID",
+			"click",
+			"btn-Convert-Html2Image",
+			"sfo sfoslip",
+			"tsp-btn-site",
+			"DIV Contents",
+			"dvContents",
+			"printableArea",
+			"ticket",
+			"boardingtime",
+			"seat seatslip",
+			"boardingtime",
+			"watermark",
+			"boardingtime",
+			"name",
+			"boardingtime",
+			"phone",
+			"phone_num",
+			"flight",
+			"gate",
+			"images/succes-payment.jpg",
+			"sfo",
+			"sfo sfoslip",
+			"jfk ",
+			"jfk jfkslip",
+			"evenodd",
+			"clip-rule",
+			"bootgrid",
+			"tsp-col-1 tsp-form-site col-md-6 col-sm-12 col-xs-12 tsp-full-xs tsp-no-padding-left",
+			"   \n",
+			"conn",
+			"d_id",
+			"t-id",
+			"methodPayment\n",
+			"radio ",
+			"radio button",
+			"methodPayment",
+			"logout",
+			"index.html",
+			"tsp_menu_cart_search",
+			"content",
+			"style",
+			"tsp-img-success"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bus-booking_system.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bus-booking.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5076.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Bus_ticket.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 19209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"output.xdebug":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "bus.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test2",
+				"test2.php"
+			],
+			[
+				"projec",
+				"bus.sublime-project"
+			],
+			[
+				"admini",
+				"Admin_insert.php"
+			],
+			[
+				"admininse",
+				"Bus\\Admin_insert.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 315.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"_setAutoPlayInterval"
+			]
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"17":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"18":
+				{
+					"group": 1,
+					"index": 1
+				},
+				"19":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"20":
+				{
+					"group": 2,
+					"index": 1
+				},
+				"26":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"27":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"28":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.864359861592,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
